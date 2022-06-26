@@ -1,0 +1,5 @@
+obj/
+bin/
+.DS_Store
+BenchmarkDotNet.Artifacts/
+.idea/
